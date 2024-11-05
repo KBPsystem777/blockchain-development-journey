@@ -1,5 +1,5 @@
 # Blockchain-development-journey
-My personal curated Learning Materials for Blockchain Development
+My personal articles and thought as a learning Materials for Blockchain Development
 
 ## Bitcoin
 [Bitcoin's Whitepaper Summary](https://github.com/koleenbp/blockchain-development-journey/blob/main/Bitcoin/Summary.md)
